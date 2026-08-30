@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*~
+
+# Altium backups / project-local junk (safe to ignore if you add native project files later)
+*.PcbDoc.bak
+*.SchDoc.bak
+History/
+Project Outputs*/
+Project Logs*/
+__Previews/
+*.OutJob.Cache
+
+# Common export scratch
+*.zip.orig

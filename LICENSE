@@ -1,0 +1,26 @@
+PowerCard Hardware License
+===========================
+
+SPDX-License-Identifier: CERN-OHL-S-2.0
+
+The hardware design files in this repository — Gerbers, drill files, and (once
+published) schematics, PCB layout source, and mechanical/3D files — are
+licensed under the CERN Open Hardware Licence Version 2 – Strongly Reciprocal
+(CERN-OHL-S-2.0).
+
+This file intentionally does NOT paste a re-typed copy of the license's legal
+text, to avoid the risk of an inaccurate or incomplete reproduction of a legal
+document. Before your first public release, please replace this file with the
+verbatim, official license text, which CERN publishes at:
+
+    https://cern-ohl.web.cern.ch/
+    https://spdx.org/licenses/CERN-OHL-S-2.0.html
+
+In short (this summary is not a substitute for the actual license text):
+CERN-OHL-S is a "strongly reciprocal" (copyleft) hardware license. If you
+convey a product built from this design, or a modified version of this
+design, you must make the corresponding complete source (design files)
+available under the same license, and preserve notices. See the official
+text linked above for the actual, binding terms.
+
+Copyright (c) 2026 the PowerCard project contributors.

@@ -1,0 +1,20 @@
+PowerCard Documentation License
+================================
+
+SPDX-License-Identifier: CC-BY-4.0
+
+The documentation in this repository (README.md, files under docs/, and
+other prose/explanatory content that is not itself a hardware design file)
+is licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+Canonical license text and human-readable summary:
+
+    https://creativecommons.org/licenses/by/4.0/
+
+In short (this summary is not a substitute for the actual license text): you
+are free to share and adapt this documentation for any purpose, even
+commercially, as long as you give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+
+Copyright (c) 2026 the PowerCard project contributors.
