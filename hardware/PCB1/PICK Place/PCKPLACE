@@ -1,0 +1,25 @@
+========================================================================================================================
+File Design Information:
+
+Date:       01/09/26
+Time:       13:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                                  
+J1         "USB C PCB"        TopLayer    New_footprint_1               5129.528      1655.079      0        ""                                                                                                           
+B1         HZ954750           TopLayer    HZ954750-Footprint-1          3692.638      1675.000      90       "3.7V 180mA"                                                                                                 
+U3         LTC3246MPMSE#PBF   TopLayer    FP-MSE-16-05-08-1667-MFG      5225.000      2060.000      180      "LTC3246MPMSE#PBF Charge Pump INV/STPUP/STPDN 2.5V to 5V/3.3V/5V 0.5mA Automotive 16-Pin MSOP EP Tube"       
+gnd        760308105214       TopLayer    760308105214                  2635.630      1930.000      270      "General Purpose Inductor"                                                                                   
+U1         LTC4124EV#TRMPBF   TopLayer    FP-LQFN-12-05-08-1530-IPC_C   2630.000      1710.000      0        "IC BATT CHG LI-ION 1CELL 12LQFN"                                                                            
+SW1        EVP-BB2A9B000      TopLayer    FP-EVP-BB2A9B000-MFG          5415.000      2085.000      90       "SWITCH TACTILE SPST-NO 0.02A 15V"                                                                           
+S1         "Solar Panel Flex" BottomLayer Solar_Panel_Flex-Footprint-1  3897.500      3415.000      0        ""                                                                                                           
+R1         RT0603BRD07499KL   TopLayer    FP-RT0603-MFG                 5220.000      1835.000      180      "RES SMD 499K OHM 0.1% 1/10W 0603"                                                                           
+D1         LTST-C190GKT       BottomLayer FP-LTST-C190GKT-MFG           2450.000      1665.000      270      "LED GREEN CLEAR CHIP SMD"                                                                                   
+C6         10uF               TopLayer    FP-GRM188-0_1-e0_2_0_55-IPC_A 5340.000      2255.000      90       "GRM188R60J106ME47D Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V" 
+C5         "1uF 0603"         TopLayer    FP-C0603C105K3PACTU-MFG       5045.000      2143.622      270      "C0603C105K3PACTU CAP CER 1UF 25V X5R 0603"                                                                  
+C4         2.2uF              TopLayer    FP-GRM188-0_1-e0_2_0_5-MFG    5045.000      2045.000      270      "GRM188R71A225KE15D Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 2.2uF, X7R, 15%, 10%, 10V" 
+C3         C0603C105K4PACTU   TopLayer    CAPC1608X90X35NL15T15         2750.000      1710.000      90       "CAP CER 1UF 16V X5R 0603"                                                                                   
+C2         C0805C104K5RACTU   TopLayer    FP-C0805C-DN-MFG              2630.000      1825.000      180      "CAP CER 0.1UF 50V X7R 0805"                                                                                 
+C1         C0805C476M9PACTU   TopLayer    FP-C0805C476M9PACTU-MFG       2495.000      1790.000      90       "CAP CER 47UF 6.3V X5R 0805"                                                                                 
