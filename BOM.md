@@ -15,3 +15,8 @@
 | EVP-BB2A9B000 | SWITCH TACTILE SPST-NO 0.02A 15V | SW1 | FP-EVP-BB2A9B000-MFG | CMP-05618-000013-1 | 1 |
 | LTC4124EV#TRMPBF | IC BATT CHG LI-ION 1CELL 12LQFN | U1 | FP-LQFN-12-05-08-1530-IPC_C | CMP-09132-000015-1 | 1 |
 | LTC3246MPMSE#PBF | LTC3246MPMSE#PBF Charge Pump INV/STPUP/STPDN 2.5V to 5V/3.3V/5V 0.5mA Automotive 16-Pin MSOP EP Tube | U3 | FP-MSE-16-05-08-1667-MFG | CMP-00026-88967362-1 | 1 |
+
+| Item | Notes |
+|---|---|
+| Battery (B1) | 1 mm-thick LiPo pouch cell, printed marking `HZ 954750`, 3.7 V nominal, 180 mAh, sourced from [battery-vats.sell.everychina.com](https://battery-vats.sell.everychina.com/). No Digi-Key/distributor part number — see [`SAFETY.md`](SAFETY.md) regarding sourcing generic thin cells. |
+| Solar film | PowerFilm **SP4.2-37** — 92 mW / 4.2 V / 22 mA (full sun), 84 × 37 mm active area, ~0.2 mm thick flexible amorphous-silicon module. Digi-Key/Mouser stock this part;SP4.2-37. |
